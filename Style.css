@@ -29,6 +29,7 @@
             display: flex;
             gap: 18px;
             align-items: center;
+            margin-right: 20px;
         }
         .site-nav a {
             color: #fff;
@@ -139,7 +140,7 @@
             align-items: center;
             justify-content: center;
             border-radius: 10px;
-            background: linear-gradient(135deg, #ff5252, #860e0e);
+            background: linear-gradient(135deg, #ffffff, #616161);
             color: #fff;
         }
         .feature-card h3 {
@@ -308,7 +309,7 @@
 }
 
 .effect-section h2 {
-  background: #1e293b;
+  background: #000000;
   color: white;
   padding: 16px 24px;
   border-radius: 12px 12px 0 0;
